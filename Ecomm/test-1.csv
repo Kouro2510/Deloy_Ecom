@@ -1,0 +1,19 @@
+5,Milk shake strawberry,10,8,S?a l?c du?c làm t? dâu,"S?a, dâu",U?ng tr?c ti?p,MS
+6,Milk shake vanila,10,8,S?a l?c du?c làm t? vanila,"S?a, vanila",U?ng tr?c ti?p,MS
+7,Sweet lassy milk,10,8,S?a chua truy?n th?ng ?n Ð?,"S?a chua, dá, du?ng","An, u?ng tr?c ti?p",LS
+8,Sabja lassi,10,8,S?a chua ?n Ð?,"S?a chua, dá, du?ng","U?ng, an tr?c ti?p",LS
+9,Toned milk,10,8,S?a ?n Ð? du?c làm t? s?a trâu,"S?a trâu, s?a b?t tách béo, s?a không béo, nu?c",U?ng tr?c ti?p,ML
+10,Standardrized milk,10,8,S?a không béo dành cho ngu?i an kiêng,s?a,u?ng tr?c ti?p,ML
+11,Cow milk,10,8,S?a bò nguyên ch?t ti?t trùng,s?a bò,u?ng tr?c ti?p,ML
+12,Fullcream milk,10,8,S?a b?t nguyên kem,"S?a, du?ng",Pha v?i nu?c nóng ho?c an tr?c ti?p,ML
+13,Dbtoned milk,10,8,S?a trâu ?n Ð?,"s?a trâu, nu?c, s?a tách béo, s?a không béo",u?ng tr?c ti?p,ML
+14,Buffalo-ghee,10,8,Bo thanh l?c có ngu?n g?c d?ng v?t,Bo d?ng v?t,"Nguyên li?u cho n?u an, ch?a b?nh",GH
+15,Cow-ghee,10,8,Bo thanh l?c có ngu?n g?c t? d?ng v?t,Bo d?ng v?t,"S? d?ng nhu nguyên li?u n?u an, dùng làm thu?c h? tr? tr? b?nh",GH
+16,Curd Premium,12,10,S?a b? truy?n th?ng Anh Qu?c,S?a,"Pha v?i nu?c nóng, dùng làm nguyên li?u n?u an",CR
+17,Curd total,10,8,S?a b?t truy?n th?ng Anh Qu?c,S?a,"Pha v?i nu?c nóng, dùng làm nguyên li?u n?u an",CR
+18,Ice bar,10,8,Kem dá ngon tuy?t v?i,"Nu?c trái cây, siro, huong li?u",An tr?c ti?p,IC
+19,Kulfi,10,8,Kem ?n Ð? truy?n th?ng,"S?a, d?u, b?ch d?u kh?u",An tr?c ti?p,IC
+20,Paneer fresh,10,8,Phô mai tuoi,"Trái cây có v? chua, s?a nguyên béo",Nguyên li?u n?u an,PN
+21,Paneer lite,10,8,Phô mai tuoi ?n Ð?,"Trái cây có v? chua, s?a",Nguyên li?u n?u an,PN
+22,Mozzarella cheese,10,8,Phô mai Mozzarella,S?a lên men,"An tr?c ti?p, dùng làm nguyên li?u n?u an",CZ
+23,Processed cheese,10,8,Phô mai dã qua ch? bi?n,"S?a lên men, ch?t nhu hóa, huong li?u",An tr?c ti?p,CZ
